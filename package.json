@@ -3,7 +3,7 @@
     "your-command-here": "./index.js"
   },
   "name": "patrick-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test resume description",
   "main": "index.js",
   "scripts": {
