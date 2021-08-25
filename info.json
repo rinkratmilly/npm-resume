@@ -1,0 +1,28 @@
+{
+    "name": "Patrick Milligan",
+    "website": "https://rinkratmilly.github.io/",
+    "linkedin": "https://www.linkedin.com/in/pamilligan/",
+    "github": "rinkratmilly",
+    "email": "rinkratmilly@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Mongodb",
+        "PostgreSQL"
+       
+    ],
+    "softSkills": [
+        "Training",
+        "Implementation",
+        "Lead Learning Out"
+
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge",
+        "Lean Six Sigma"    
+    ]
+}
