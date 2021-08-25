@@ -1,0 +1,17 @@
+{
+  "bin": {
+    "your-command-here": "./index.js"
+  },
+  "name": "patrick-resume",
+  "version": "1.0.0",
+  "description": "test resume description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume-test"
+  ],
+  "author": "rinkratmilly",
+  "license": "ISC"
+  }
